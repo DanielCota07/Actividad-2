@@ -1,0 +1,13 @@
+body
+{
+    background-color: rgb(154, 112, 194);
+}
+input[type=submit]
+{
+    background-color: rgb(83, 83, 83);
+    
+}
+input[type=submit]:hover 
+{
+    background-color: rgb(255, 255, 255);
+}
